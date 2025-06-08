@@ -1,6 +1,31 @@
+
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+  "title": "一个网站",      
+  "subTitle": "-_-||",        
+  "avatarUrl": "", 
+  "GMEEK_VERSION": "last",
+
+  
+  "displayTitle": "技术探索者",              
+  "yearColorList": ["#ff6b6b", "#48dbfb", "#1dd1a1", "#feca57"], 
+  "commentLabelColor": "#a29bfe",           
+  "dayTheme": "light",                       
+  "nightTheme": "dark_dimmed",               
+  "themeMode": "auto",                       
+
+  
+  "email": "jax_yyds@163.com",         
+  "startSite": "04/25/2025",      
+
+
+
+  "onePageListNum": 10,                      
+  
+
+  "exlink": {                                 
+    "github": "https://github.com/jax-169/"
+  },
+  "showPostSource": 1,                       
+  "needComment": 1                       
 }
+  
